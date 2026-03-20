@@ -119,7 +119,7 @@ Incorporating sentiment-aware strategies can significantly improve decision-maki
 
 **Role:** Junior Data Scientist – Trader Behavior Insights
 **Author:** Harsh Yadav
-**GitHub:** 
+**GitHub:** https://github.com/Harsh-Yadav73/Trader-Sentiment-Analysis-
 
 ---
 
